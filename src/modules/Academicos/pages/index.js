@@ -1,0 +1,13 @@
+export { DashboardPage } from './DashboardPage';
+export { CoursesPage } from './CoursesPage';
+export { CourseDetailPage } from './CourseDetailPage';
+export { TasksPage } from './TasksPage';
+export { GradesPage } from './GradesPage';
+export { SubmissionsPage } from './SubmissionsPage';
+export { ProgressPage } from './ProgressPage';
+export { ReportsPage } from './ReportsPage';
+export { SubjectsManagementPage } from './SubjectsManagementPage';
+export { StudentGradesPage } from './StudentGradesPage';
+export { NotificationsManagementPage } from './NotificationsManagementPage';
+export { MonthlyReportPage } from './MonthlyReportPage';
+export { CreateTaskPage } from './CreateTaskPage';
